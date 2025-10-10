@@ -1,2 +1,2 @@
 # certificados
-Este repositório contémos meus certificados.
+Este repositório contém os meus certificados.
